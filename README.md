@@ -1,3 +1,4 @@
 # najim-repo
-this is my first repositary
+this is my first repository
+<br>
 author - najim attar
